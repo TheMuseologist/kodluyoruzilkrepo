@@ -16,3 +16,6 @@
 
 ## License
 ### [MIT](https://choosealicense.com/licenses/mit/)
+
+## Proje Resmi
+![Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
